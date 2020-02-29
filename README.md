@@ -4,7 +4,7 @@ Here are some examples of code that I used to explore my tech talk topic "A brie
 
 The python code was used to explore examples of feature recognition techniques.
 
-The vision folder contains a very simple react app which features pictures which on clocking will make a call to google visions API
+The vision folder contains a very simple react app which features pictures which on clicking will make a call to the google vision API
 service and will get back the results.
 
 If you would like to use the vision example, you will need to create a google cloud account and generate an API key for google vision.
